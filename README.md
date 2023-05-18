@@ -1,5 +1,5 @@
-# MY-CSE
-Browser Custom Search Engines 
+# Site Search
+Para pesquisar um site específico ou parte do Brave, introduza o respetivo atalho na barra de endereço, seguido do seu atalho de teclado preferido.
 
 Site				|Atalho		| Url
 --------------------|-----------|------
