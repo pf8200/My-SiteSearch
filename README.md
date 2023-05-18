@@ -1,5 +1,11 @@
 # Site Search
-Para pesquisar um site específico ou parte do Brave, introduza o respetivo atalho na barra de endereço, seguido do seu atalho de teclado preferido.
+Além dos motores de pesquisa gerais, como o Google, você também pode realizar pesquisas específicas em sites individuais. Isso é útil quando você deseja encontrar informações em um site específico, em vez de pesquisar em toda a internet. Muitos sites têm uma caixa de pesquisa interna que permite que você digite palavras-chave e encontre conteúdo relevante dentro desse site.
+
+Por exemplo, se você está visitando um site de notícias e deseja encontrar artigos sobre um determinado tópico, procure uma caixa de pesquisa ou um ícone de lupa no site. Clique nele e digite suas palavras-chave. O site retornará os resultados da pesquisa com base nas informações contidas em suas páginas.
+
+Cada site pode ter sua própria forma de pesquisa interna, mas geralmente é fácil encontrá-la. Procure por uma caixa de pesquisa, ícone de lupa ou até mesmo um campo de pesquisa no cabeçalho ou rodapé do site.
+
+Para pesquisar um site específico, introduza o respetivo atalho na barra de endereço, seguido do seu atalho de teclado preferido.
 
 Site				|Atalho		| Url
 --------------------|-----------|------
