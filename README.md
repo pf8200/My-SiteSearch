@@ -13,12 +13,10 @@ Site				|Atalho		| Url
 --------------------|-----------|------
 andi Search			| andi		| https://andisearch.com/?query={searchTerms}
 Beatport			| b			| https://www.beatport.com/search?q={searchTerms}
-chi.pt				| chi		| https://www.google.com/search?q={searchTerms}&domains=chi.pt&hl=pt&btnG=Pesquisar&sitesearch=chi.pt
 Emojipedia			| emoji		| https://emojipedia.org/search/?q={searchTerms}&utm_source=opensearch
 Gist Search			| gist		| https://gist.github.com/search?q={searchTerms}&ref=opensearch
 Github Topics		| git		| https://github.com/topics/{searchTerms}
 Good Reads			| gr		| https://www.goodreads.com/search?utf8=%E2%9C%93&q={searchTerms}
-Google				| g			| {google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:iOSSearchLanguage}{google:prefetchSource}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}
 Google Images		| gi		| https://images.google.com/images?q={searchTerms}&hl=en
 Google maps			| gm		| https://maps.google.com/maps?f=q&hl=en&q={searchTerms}&btnG=Search
 Google news			| gn		| https://news.google.com/search?for={searchTerms}&hl=pt-PT&gl=PT&ceid=PT%3Apt-150
