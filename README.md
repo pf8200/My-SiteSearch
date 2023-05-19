@@ -5,8 +5,9 @@ Por exemplo, se você está visitando um site de notícias e deseja encontrar ar
 
 Cada site pode ter sua própria forma de pesquisa interna, mas geralmente é fácil encontrá-la. Procure por uma caixa de pesquisa, ícone de lupa ou até mesmo um campo de pesquisa no cabeçalho ou rodapé do site.
 
-Para pesquisar um site específico, introduza o respetivo atalho na barra de endereço, seguido do seu atalho de teclado preferido.
-`tab` ou `space`
+> `brave://settings/searchEngines`
+
+Para pesquisar um site específico, introduza o respetivo atalho na barra de endereço, seguido do seu atalho de teclado preferido, que pode ser `tab` ou `space`
 
 Site				|Atalho		| Url
 --------------------|-----------|------
