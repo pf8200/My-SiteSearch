@@ -39,9 +39,3 @@ Barra de marcadores	| @barra	| brave://bookmarks/?q={searchTerms}
 Brave Settings		| s			| brave://settings
 Pesquisar Histórico	| @hist		| brave://history/?q={searchTerms}
 Pesquisar Separadore| @s		| brave://tabs/?q={searchTerms}
-
-
-## Links
-
-
-* teste
